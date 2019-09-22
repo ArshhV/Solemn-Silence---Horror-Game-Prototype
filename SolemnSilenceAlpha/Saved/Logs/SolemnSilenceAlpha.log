@@ -9261,3 +9261,939 @@ Script call stack:
 [2019.09.22-08.48.00:110][386]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonCharacterE9DF9BDE46619C2C87D920BEC46D8C90.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2019.09.22-08.48.00:119][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUDWidget" FILE="../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/UI/HUDWidget.uasset" SILENT=true
 [2019.09.22-08.48.00:166][386]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/HUDWidgetD2312E904BCD7028C971ECA1ACFC680C.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/UI/HUDWidget.uasset'
+[2019.09.22-08.49.58:525][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-08.50.24:382][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-09.10.20:827][637]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.10.20:928][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.20:933][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.10.20:933][637]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:10:20 AM)
+[2019.09.22-09.10.20:933][637]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.10.20:993][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060035s)
+[2019.09.22-09.10.20:994][637]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.10.20:995][637]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2019.09.22-09.10.20:995][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.061536s)
+[2019.09.22-09.10.21:053][637]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.10.21:073][637]LogInit: FAudioDevice initialized.
+[2019.09.22-09.10.21:108][637]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:112][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:113][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:122][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:122][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:123][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:123][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:123][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.21:123][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.21:125][637]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.10.21
+[2019.09.22-09.10.21:128][637]LogWorld: Bringing up level for play took: 0.017972
+[2019.09.22-09.10.21:145][637]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.649
+[2019.09.22-09.10.21:146][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.41:051][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.41:059][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.10.41:123][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.10.41:124][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.41:192][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.10.41:281][816]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.09.22-09.10.43:813][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-09.10.44:593][952]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.10.44:618][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.44:621][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.10.44:621][952]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:10:44 AM)
+[2019.09.22-09.10.44:621][952]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.10.44:668][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047018s)
+[2019.09.22-09.10.44:669][952]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.10.44:669][952]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2019.09.22-09.10.44:670][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048235s)
+[2019.09.22-09.10.44:723][952]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.10.44:740][952]LogInit: FAudioDevice initialized.
+[2019.09.22-09.10.44:772][952]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.10.44:775][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:775][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:775][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:776][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:787][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:787][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:788][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:788][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:788][952]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.10.44:788][952]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.10.44:792][952]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.10.44
+[2019.09.22-09.10.44:796][952]LogWorld: Bringing up level for play took: 0.022862
+[2019.09.22-09.10.44:812][952]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.019
+[2019.09.22-09.10.44:812][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.10.48:765][183]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.10.51:212][329]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.10.58:321][755]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.11.05:104][156]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.11.10:470][470]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.11.18:461][911]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.11.27:427][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.11.27:435][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.11.27:498][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.11.27:499][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.11.27:575][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.11.27:667][437]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.09.22-09.32.39:897][273]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.09.22-09.40.54:048][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.41.03:267][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.41.03:307][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.41.03:312][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.41.03:312][476]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:41:03 AM)
+[2019.09.22-09.41.03:313][476]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.41.03:381][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067684s)
+[2019.09.22-09.41.03:383][476]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.41.03:384][476]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2019.09.22-09.41.03:384][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070805s)
+[2019.09.22-09.41.03:536][476]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.41.03:557][476]LogInit: FAudioDevice initialized.
+[2019.09.22-09.41.03:592][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:596][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.41.03:607][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.41.03:610][476]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.41.03
+[2019.09.22-09.41.03:612][476]LogWorld: Bringing up level for play took: 0.019516
+[2019.09.22-09.41.03:628][476]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.166
+[2019.09.22-09.41.03:628][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.41.12:497][998]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.41.18:293][345]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.41.26:763][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.41.26:770][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.41.26:918][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.41.26:918][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.41.26:988][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.41.27:074][853]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.09.22-09.41.27:522][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.43.19:861][514]LogEditorTransaction: Undo Add Node
+[2019.09.22-09.43.20:328][538]LogEditorTransaction: Undo Delete current selection
+[2019.09.22-09.43.29:683][ 96]LogEditorTransaction: Undo Move Node
+[2019.09.22-09.43.30:888][168]LogEditorTransaction: Undo Add Node
+[2019.09.22-09.43.57:881][739]BlueprintLog: New page: Compile OldMan_Character
+[2019.09.22-09.44.31:391][714]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.44.31:427][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.44.31:430][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.44.31:430][714]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:44:31 AM)
+[2019.09.22-09.44.31:431][714]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.44.31:481][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049173s)
+[2019.09.22-09.44.31:482][714]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.44.31:482][714]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2019.09.22-09.44.31:482][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050883s)
+[2019.09.22-09.44.31:536][714]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.44.31:554][714]LogInit: FAudioDevice initialized.
+[2019.09.22-09.44.31:588][714]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:592][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:593][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.44.31:602][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.44.31:604][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.44.31
+[2019.09.22-09.44.31:607][714]LogWorld: Bringing up level for play took: 0.017626
+[2019.09.22-09.44.31:622][714]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.171
+[2019.09.22-09.44.31:623][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.44.33:747][835]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.44.39:632][187]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.44.42:288][344]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.44.44:893][493]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.44.46:157][557]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.44.46:620][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.44.46:676][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.44.46:676][583]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.44.47:639][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.44.47:648][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.44.47:816][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.44.47:817][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.44.47:890][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.44.47:972][640]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2019.09.22-09.44.50:311][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.47.37:823][639]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.09.22-09.47.57:814][790]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.09.22-09.51.10:280][235]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap_Auto5F19ED7054B0211DE5BC7F08C5F88C92E.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.09.22-09.51.10:285][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.795
+[2019.09.22-09.51.10:285][235]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.795
+[2019.09.22-09.51.10:290][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/AI/OldMan_Character] ([1] browsable assets)...
+[2019.09.22-09.51.10:325][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/AI/OldMan_Character.OldMan_Character]
+[2019.09.22-09.51.10:325][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/AI/OldMan_Character]
+[2019.09.22-09.51.10:376][235]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/OldMan_Character_Auto55B37B1C34B0089EFCDF0CAB3F8245743.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/AI/OldMan_Character_Auto5.uasset'
+[2019.09.22-09.51.10:377][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/AI/BT_Enemy] ([1] browsable assets)...
+[2019.09.22-09.51.10:378][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/AI/BT_Enemy]
+[2019.09.22-09.51.10:397][235]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BT_Enemy_Auto5090FF5034BF4ABAAD9661B8D5B9BFE05.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/AI/BT_Enemy_Auto5.uasset'
+[2019.09.22-09.51.10:399][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.09.22-09.51.10:431][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.09.22-09.51.10:431][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.09.22-09.51.10:578][235]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonCharacter_Auto5666DE6154C92DC9CF5CB39B94381DB49.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.09.22-09.51.10:580][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuickTimeEvents/QTE_Library] ([1] browsable assets)...
+[2019.09.22-09.51.10:580][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuickTimeEvents/QTE_Library]
+[2019.09.22-09.51.10:623][235]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/QTE_Library_Auto53E46D9FC4B371ACBB2A4FF924C150B97.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/QuickTimeEvents/QTE_Library_Auto5.uasset'
+[2019.09.22-09.51.10:625][235]LogFileHelpers: Auto-saving content packages took 0.335
+[2019.09.22-09.51.24:842][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2019.09.22-09.51.29:101][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.51.45:789][ 88]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.09.22-09.51.52:183][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.52.12:989][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.52.13:081][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.52.13:084][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.52.13:084][532]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:52:13 AM)
+[2019.09.22-09.52.13:084][532]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.52.13:138][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053953s)
+[2019.09.22-09.52.13:140][532]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.52.13:140][532]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2019.09.22-09.52.13:140][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055625s)
+[2019.09.22-09.52.13:244][532]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.52.13:264][532]LogInit: FAudioDevice initialized.
+[2019.09.22-09.52.13:280][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.52.13:362][532]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:365][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:366][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:374][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:374][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:374][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:374][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:375][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.52.13:375][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.52.13:377][532]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.52.13
+[2019.09.22-09.52.13:381][532]LogWorld: Bringing up level for play took: 0.018172
+[2019.09.22-09.52.13:397][532]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.396
+[2019.09.22-09.52.13:397][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.52.16:064][670]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.52.21:712][991]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.21:762][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.21:813][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.21:864][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.21:864][  0]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.52.23:013][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Switch on e_EventStateEnum
+[2019.09.22-09.52.23:013][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure State_2_C4E28C1A48810DC1DCCD779EFEABEF33". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Switch on e_EventStateEnum
+[2019.09.22-09.52.23:013][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Switch on e_EventStateEnum
+[2019.09.22-09.52.23:013][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure State_2_C4E28C1A48810DC1DCCD779EFEABEF33". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Switch on e_EventStateEnum
+[2019.09.22-09.52.36:184][811]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.52.36:684][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:346][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:402][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:456][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:506][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:557][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-09.52.38:557][943]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.52.39:039][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.52.39:044][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.52.39:063][971]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-09.52.39:177][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.52.39:178][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.52.39:276][972]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.09.22-09.53.12:752][958]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.53.12:785][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.53.12:788][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.53.12:788][958]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:53:12 AM)
+[2019.09.22-09.53.12:789][958]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.53.12:839][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050894s)
+[2019.09.22-09.53.12:840][958]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.53.12:840][958]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2019.09.22-09.53.12:841][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052769s)
+[2019.09.22-09.53.12:905][958]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.53.12:922][958]LogInit: FAudioDevice initialized.
+[2019.09.22-09.53.12:934][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.53.13:085][958]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.53.13:089][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:090][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.53.13:100][958]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.53.13:103][958]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.53.13
+[2019.09.22-09.53.13:105][958]LogWorld: Bringing up level for play took: 0.018656
+[2019.09.22-09.53.13:127][958]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.334
+[2019.09.22-09.53.13:128][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.53.15:513][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.53.15:517][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.53.15:536][ 85]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-09.53.15:643][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.53.15:643][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.53.15:825][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.09.22-09.53.34:004][164]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.09.22-09.53.34:015][164]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.09.22-09.56.53:410][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.56.53:440][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.56.53:443][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.56.53:443][532]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:56:53 AM)
+[2019.09.22-09.56.53:443][532]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.56.53:491][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047615s)
+[2019.09.22-09.56.53:492][532]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.56.53:493][532]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2019.09.22-09.56.53:493][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.049606s)
+[2019.09.22-09.56.53:552][532]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.56.53:571][532]LogInit: FAudioDevice initialized.
+[2019.09.22-09.56.53:602][532]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:606][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:607][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:607][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.56.53:616][532]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.56.53:619][532]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.56.53
+[2019.09.22-09.56.53:622][532]LogWorld: Bringing up level for play took: 0.018334
+[2019.09.22-09.56.53:638][532]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.156
+[2019.09.22-09.56.53:639][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.56.56:991][725]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.57.01:316][984]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.57.10:938][545]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-09.57.19:509][822]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.57.35:489][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.57.37:149][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.57.37:154][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.57.37:258][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.57.37:258][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.57.37:302][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.57.37:357][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.09.22-09.57.57:426][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.59.05:713][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-09.59.05:780][904]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-09.59.05:811][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.59.05:814][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-09.59.05:814][904]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 5:59:05 AM)
+[2019.09.22-09.59.05:815][904]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-09.59.05:863][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049199s)
+[2019.09.22-09.59.05:864][904]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-09.59.05:864][904]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.09.22-09.59.05:865][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050474s)
+[2019.09.22-09.59.05:926][904]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-09.59.05:948][904]LogInit: FAudioDevice initialized.
+[2019.09.22-09.59.05:985][904]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:989][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:990][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-09.59.05:999][904]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-09.59.06:003][904]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-19.59.06
+[2019.09.22-09.59.06:006][904]LogWorld: Bringing up level for play took: 0.019373
+[2019.09.22-09.59.06:021][904]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.227
+[2019.09.22-09.59.06:021][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.59.10:182][147]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.59.15:972][491]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-09.59.20:295][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-09.59.46:524][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.59.46:529][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.59.46:647][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-09.59.46:647][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-09.59.46:703][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-09.59.46:781][341]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.09.22-09.59.47:637][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-10.00.53:011][281]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-10.00.53:038][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.00.53:043][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.00.53:043][281]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:00:53 AM)
+[2019.09.22-10.00.53:043][281]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.00.53:099][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056493s)
+[2019.09.22-10.00.53:100][281]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.00.53:100][281]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2019.09.22-10.00.53:100][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.058190s)
+[2019.09.22-10.00.53:158][281]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.00.53:178][281]LogInit: FAudioDevice initialized.
+[2019.09.22-10.00.53:211][281]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:215][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:216][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:225][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:226][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:226][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:226][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:226][281]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.00.53:226][281]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.00.53:228][281]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.00.53
+[2019.09.22-10.00.53:231][281]LogWorld: Bringing up level for play took: 0.018949
+[2019.09.22-10.00.53:248][281]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.546
+[2019.09.22-10.00.53:248][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.00.55:689][422]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Delay', from offset 1677
+[2019.09.22-10.00.55:689][422]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/AI/OldMan_Character.OldMan_Character_C:ExecuteUbergraph_OldMan_Character
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:OnQuickTImeEventCompletion
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2019.09.22-10.00.55:695][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-10.01.17:254][422]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.01.17:255][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.01.17:261][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.01.17:356][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.01.17:356][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.01.17:429][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.01.17:634][423]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.09.22-10.01.56:242][543]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.609 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.22-10.03.07:906][754]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap_Auto6849960EB46B737452EF90B85402B5E4A.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.09.22-10.03.07:913][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.915
+[2019.09.22-10.03.07:913][754]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.915
+[2019.09.22-10.03.07:917][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.09.22-10.03.07:917][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.09.22-10.03.08:056][754]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonCharacter_Auto687C911834C31804DEFE6B8A1D710A884.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2019.09.22-10.03.08:057][754]LogFileHelpers: Auto-saving content packages took 0.141
+[2019.09.22-10.05.55:723][573]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-10.05.55:761][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.05.55:764][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.05.55:765][573]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:05:55 AM)
+[2019.09.22-10.05.55:765][573]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.05.55:818][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052969s)
+[2019.09.22-10.05.55:819][573]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.05.55:819][573]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.09.22-10.05.55:819][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054233s)
+[2019.09.22-10.05.55:883][573]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.05.55:903][573]LogInit: FAudioDevice initialized.
+[2019.09.22-10.05.55:941][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:945][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:946][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:946][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:946][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:954][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:954][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:954][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:954][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:954][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.05.55:955][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.05.55:957][573]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.05.55
+[2019.09.22-10.05.55:960][573]LogWorld: Bringing up level for play took: 0.017122
+[2019.09.22-10.05.55:975][573]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.182
+[2019.09.22-10.05.55:975][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.05.58:025][686]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Delay', from offset 1677
+[2019.09.22-10.05.58:025][686]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/AI/OldMan_Character.OldMan_Character_C:ExecuteUbergraph_OldMan_Character
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:OnQuickTImeEventCompletion
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2019.09.22-10.05.58:029][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-10.06.06:996][686]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.06.18:304][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.06.18:307][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.06.18:402][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.06.18:403][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.06.18:446][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.06.18:469][352]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.09.22-10.10.26:515][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-10.10.26:543][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.10.26:546][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.10.26:546][338]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:10:26 AM)
+[2019.09.22-10.10.26:547][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.10.26:597][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049867s)
+[2019.09.22-10.10.26:598][338]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.10.26:598][338]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2019.09.22-10.10.26:599][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051737s)
+[2019.09.22-10.10.26:655][338]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.10.26:673][338]LogInit: FAudioDevice initialized.
+[2019.09.22-10.10.26:706][338]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.10.26:710][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:711][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:719][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:719][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:720][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:720][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:720][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.10.26:720][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.10.26:723][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.10.26
+[2019.09.22-10.10.26:725][338]LogWorld: Bringing up level for play took: 0.017367
+[2019.09.22-10.10.26:740][338]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.947
+[2019.09.22-10.10.26:740][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.10.28:569][440]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.10.30:432][551]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.10.30:683][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.10.32:136][653]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.10.38:007][994]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.10.39:524][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.10.39:536][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.10.39:773][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.10.39:774][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.10.39:869][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.10.39:999][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.09.22-10.10.41:563][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-10.12.51:218][224]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.22-10.13.10:343][348]LogEditorTransaction: Undo Move Node
+[2019.09.22-10.13.11:235][390]LogEditorTransaction: Undo Add Node
+[2019.09.22-10.14.20:675][991]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonCharacterDFD63B514F20CBE662C314B9B81A1E7B.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.09.22-10.14.22:016][ 70]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.09.22-10.14.23:458][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-10.14.23:490][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.23:494][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.14.23:494][120]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:14:23 AM)
+[2019.09.22-10.14.23:495][120]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.14.23:545][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050292s)
+[2019.09.22-10.14.23:546][120]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.14.23:546][120]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2019.09.22-10.14.23:547][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051837s)
+[2019.09.22-10.14.23:601][120]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.14.23:620][120]LogInit: FAudioDevice initialized.
+[2019.09.22-10.14.23:651][120]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:655][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:656][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:665][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:665][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:665][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:665][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:666][120]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.23:666][120]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.23:668][120]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.14.23
+[2019.09.22-10.14.23:670][120]LogWorld: Bringing up level for play took: 0.017407
+[2019.09.22-10.14.23:685][120]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.109
+[2019.09.22-10.14.23:685][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.27:472][342]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.14.30:241][508]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.34:690][774]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.36:274][858]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.39:723][ 52]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.43:025][233]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.46:870][446]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.50:000][609]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.14.50:702][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.50:711][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.14.50:786][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.14.50:786][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.50:892][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.14.50:992][647]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2019.09.22-10.14.53:979][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-10.14.56:510][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.56:514][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.14.56:514][972]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:14:56 AM)
+[2019.09.22-10.14.56:514][972]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.14.56:560][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046075s)
+[2019.09.22-10.14.56:561][972]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.14.56:562][972]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2019.09.22-10.14.56:562][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047537s)
+[2019.09.22-10.14.56:614][972]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.14.56:631][972]LogInit: FAudioDevice initialized.
+[2019.09.22-10.14.56:634][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-10.14.56:645][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.14.56:795][972]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:799][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.14.56:810][972]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.14.56:812][972]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.14.56
+[2019.09.22-10.14.56:815][972]LogWorld: Bringing up level for play took: 0.018503
+[2019.09.22-10.14.56:833][972]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.039
+[2019.09.22-10.14.56:833][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.14.59:868][147]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.15.00:879][207]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.15.01:337][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:386][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:436][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:486][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:536][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:586][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:636][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:686][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:736][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:786][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:836][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EventWidget". Blueprint:  OldMan_Character Function:  Execute Ubergraph Old Man Character Graph:  StartQuickTimeEvent Node:  Update Time
+[2019.09.22-10.15.01:836][264]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.15.02:876][326]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.15.07:643][612]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.15.11:411][838]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.15.13:079][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.15.13:084][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.15.13:104][938]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-10.15.13:172][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.15.13:172][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.15.13:254][939]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2019.09.22-10.15.21:671][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-10.16.41:918][960]LogEditorTransaction: Undo Add Node
+[2019.09.22-10.17.10:921][645]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/QTE_LibraryE049230C4814449BDFBA84BB0FA865CF.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/QuickTimeEvents/QTE_Library.uasset'
+[2019.09.22-10.17.12:725][752]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.22-10.17.12:750][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.17.12:753][752]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.22-10.17.12:765][752]LogPlayLevel: [PlayLevel] Compiling QTE_Library before play...
+[2019.09.22-10.17.12:781][752]LogPlayLevel: [PlayLevel]   Compiling OldMan_Character as a dependent...
+[2019.09.22-10.17.13:084][752]LogPlayLevel: PlayLevel: Blueprint regeneration took 331 ms (2 blueprints)
+[2019.09.22-10.17.13:084][752]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:17:13 AM)
+[2019.09.22-10.17.13:085][752]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.17.13:138][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053131s)
+[2019.09.22-10.17.13:139][752]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.17.13:140][752]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2019.09.22-10.17.13:140][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054727s)
+[2019.09.22-10.17.13:192][752]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.17.13:212][752]LogInit: FAudioDevice initialized.
+[2019.09.22-10.17.13:225][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.17.13:362][752]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:365][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:366][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.17.13:375][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.17.13:379][752]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.17.13
+[2019.09.22-10.17.13:381][752]LogWorld: Bringing up level for play took: 0.018710
+[2019.09.22-10.17.13:401][752]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.607
+[2019.09.22-10.17.13:402][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.17.15:323][855]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.19:458][101]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.17.21:881][246]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.26:031][495]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.31:615][830]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.35:349][ 54]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.36:652][131]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.17.41:520][423]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.42:871][504]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.17.47:472][780]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.17.52:572][ 86]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.18.12:439][277]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.18.14:735][413]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.18.15:860][480]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.18.17:070][552]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.18.19:642][706]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.18.32:176][454]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.18.46:215][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.18.46:220][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.18.46:246][296]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-10.18.46:401][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.18.46:401][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.18.46:526][297]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2019.09.22-10.18.47:274][338]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.22-10.18.47:302][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.18.47:345][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-10.18.47:345][338]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:18:47 AM)
+[2019.09.22-10.18.47:346][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.18.47:396][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050443s)
+[2019.09.22-10.18.47:397][338]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.18.47:397][338]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2019.09.22-10.18.47:397][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051842s)
+[2019.09.22-10.18.47:455][338]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.18.47:475][338]LogInit: FAudioDevice initialized.
+[2019.09.22-10.18.47:487][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.18.47:606][338]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:610][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:611][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:620][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:620][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:620][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:620][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:620][338]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.18.47:621][338]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.18.47:623][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.18.47
+[2019.09.22-10.18.47:625][338]LogWorld: Bringing up level for play took: 0.017504
+[2019.09.22-10.18.47:642][338]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.151
+[2019.09.22-10.18.47:643][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.18.57:071][895]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.19.08:123][558]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.19.09:357][632]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.19.12:141][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.19.12:146][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.19.12:164][799]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-10.19.12:214][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.19.12:214][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.19.12:340][800]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2019.09.22-10.19.15:416][970]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BT_EnemyFE9B89F1421F53DFBC58618B815AF51F.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/AI/BT_Enemy.uasset'
+[2019.09.22-10.19.59:171][552]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/QTE_LibraryF6DCEFDF46D6D1DCDDC28390249C6BCF.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/QuickTimeEvents/QTE_Library.uasset'
+[2019.09.22-10.20.00:479][629]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.09.22-10.20.00:504][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.20.00:507][629]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.22-10.20.00:517][629]LogPlayLevel: [PlayLevel] Compiling QTE_Library before play...
+[2019.09.22-10.20.00:528][629]LogPlayLevel: [PlayLevel]   Compiling OldMan_Character as a dependent...
+[2019.09.22-10.20.00:805][629]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (2 blueprints)
+[2019.09.22-10.20.00:806][629]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 23, 2019, 6:20:00 AM)
+[2019.09.22-10.20.00:806][629]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.22-10.20.00:861][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054558s)
+[2019.09.22-10.20.00:862][629]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.22-10.20.00:862][629]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2019.09.22-10.20.00:863][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056328s)
+[2019.09.22-10.20.00:918][629]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-10.20.00:934][629]LogInit: FAudioDevice initialized.
+[2019.09.22-10.20.00:949][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.20.01:082][629]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:086][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:087][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.09.22-10.20.01:096][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.09.22-10.20.01:099][629]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.22-20.20.01
+[2019.09.22-10.20.01:101][629]LogWorld: Bringing up level for play took: 0.017163
+[2019.09.22-10.20.01:118][629]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.325
+[2019.09.22-10.20.01:119][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.20.03:224][742]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.06:640][947]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.07:742][ 13]LogBlueprintUserMessages: [OldMan_Character_5] QTE Fail
+[2019.09.22-10.20.24:247][  1]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.28:865][278]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.34:215][599]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.46:768][352]LogBlueprintUserMessages: [OldMan_Character_5] QTE Success
+[2019.09.22-10.20.50:052][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.20.50:058][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-10.20.50:077][549]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.22-10.20.50:192][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-10.20.50:193][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.22-10.20.50:262][550]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2019.09.22-10.21.07:297][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-10.21.07:474][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/AI/BTT_AttackPlayer.BTT_AttackPlayer
+[2019.09.22-10.21.12:700][834]BlueprintLog: New page: Compile BTT_AttackPlayer
+[2019.09.22-10.21.32:470][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-10.21.52:409][104]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap7B7E6E8C414B0D9D387048A8D8E66940.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.22-10.21.52:455][104]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.793
+[2019.09.22-10.21.52:552][104]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/OldMan_Character64B1AD414658E471BF9BC3B1A01F58A6.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/AI/OldMan_Character.uasset'
+[2019.09.22-10.21.52:582][104]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BT_EnemyF64CFF834392EAB3C43DF5B29D1EB1AC.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/AI/BT_Enemy.uasset'
+[2019.09.22-10.21.52:760][104]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonCharacterCA2D63034B8C5A67C78B9EBBA9CA9736.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.09.22-10.21.52:788][104]LogSavePackage: Moving '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BTT_AttackPlayer11038C7741419F13F1DEE2B2202FE787.tmp' to '../../../../../../Users/Matthew Tjandra/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/AI/BTT_AttackPlayer.uasset'
