@@ -1,0 +1,1342 @@
+﻿Log file open, 10/18/19 09:58:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SolemnSilenceAlpha
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176587
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.073s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.17-22.58.31:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.17-22.58.31:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:080][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:089][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-22.58.31:089][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-22.58.31:090][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-22.58.31:091][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-22.58.31:092][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-22.58.31:092][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-22.58.31:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.17-22.58.31:122][  0]LogHAL: Display: Platform has ~ 16 GB [17114566656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.10.17-22.58.31:122][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.17-22.58.31:122][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-22.58.31:122][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-22.58.31:123][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.17-22.58.31:124][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.17-22.58.31:124][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Config/Windows/Engine.ini]
+[2019.10.17-22.58.31:124][  0]LogInit: Computer: ZONG-PC
+[2019.10.17-22.58.31:124][  0]LogInit: User: Zong
+[2019.10.17-22.58.31:124][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.17-22.58.31:124][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.17-22.58.31:125][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.17-22.58.31:125][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.17-22.58.31:125][  0]LogMemory: Process Physical Memory: 103.36 MB used, 103.36 MB peak
+[2019.10.17-22.58.31:125][  0]LogMemory: Process Virtual Memory: 99.02 MB used, 99.02 MB peak
+[2019.10.17-22.58.31:125][  0]LogMemory: Physical Memory: 5140.15 MB used,  11181.57 MB free, 16321.72 MB total
+[2019.10.17-22.58.31:125][  0]LogMemory: Virtual Memory: 4630.44 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.10.17-22.58.31:158][  0]LogInit: Using OS detected language (en-US).
+[2019.10.17-22.58.31:158][  0]LogInit: Using OS detected locale (en-SG).
+[2019.10.17-22.58.31:158][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.17-22.58.31:545][  0]LogStreaming: Display: Took  0.387s to InitEngineTextLocalization.
+[2019.10.17-22.58.31:546][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.17-22.58.31:581][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.17-22.58.31:581][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.17-22.58.31:740][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.17-22.58.31:740][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.17-22.58.31:807][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.10.17-22.58.31:807][  0]LogD3D11RHI:       4043/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.17-22.58.31:810][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.17-22.58.31:810][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.17-22.58.31:810][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.17-22.58.31:817][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.17-22.58.31:817][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.17-22.58.31:817][  0]LogWindows: EnumDisplayDevices:
+[2019.10.17-22.58.31:817][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.10.17-22.58.31:818][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.10.17-22.58.31:818][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.10.17-22.58.31:818][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.10.17-22.58.31:819][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.17-22.58.31:819][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.10.17-22.58.31:819][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.10.17-22.58.31:819][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.10.17-22.58.31:819][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.10.17-22.58.31:861][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.17-22.58.31:873][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.17-22.58.32:281][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.17-22.58.32:293][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.17-22.58.32:306][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.17-22.58.32:318][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.17-22.58.32:330][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.17-22.58.32:343][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.17-22.58.32:355][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.17-22.58.32:368][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.17-22.58.32:374][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.17-22.58.32:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.17-22.58.32:448][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.17-22.58.32:507][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.17-22.58.32:507][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.17-22.58.32:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.17-22.58.32:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.17-22.58.32:543][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.17-22.58.32:555][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.17-22.58.32:568][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.17-22.58.32:581][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.17-22.58.32:626][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.17-22.58.32:626][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.17-22.58.32:626][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.17-22.58.32:675][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Intermediate/Shaders/WorkingDirectory/7136/).
+[2019.10.17-22.58.32:675][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zongt/AppData/Local/Temp/UnrealShaderWorkingDir/EB2090444F804AE363B8D8A9E1A44C20/'.
+[2019.10.17-22.58.32:676][  0]LogXGEController: Cleaning working directory: C:/Users/zongt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.17-22.58.32:677][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.17-22.58.32:677][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.17-22.58.32:677][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.17-22.58.33:224][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/zongt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zongt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-22.58.33:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.17-22.58.33:292][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.17-22.58.33:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-22.58.33:293][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.17-22.58.33:306][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zongt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.17-22.58.33:306][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.17-22.58.33:306][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.17-22.58.33:329][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.17-22.58.33:331][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.17-22.58.33:331][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.17-22.58.33:416][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2019.10.17-22.58.33:718][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-22.58.33:866][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.17-22.58.33:870][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.17-22.58.33:870][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.17-22.58.33:870][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.17-22.58.33:870][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.17-22.58.33:881][  0]LogNetVersion: SolemnSilenceAlpha 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2215738746)
+[2019.10.17-22.58.34:365][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.084688 seconds
+[2019.10.17-22.58.34:371][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.10.17-22.58.34:371][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.10.17-22.58.34:371][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.17-22.58.35:172][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.17-22.58.35:186][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.17-22.58.35:806][  0]SourceControl: Source control is disabled
+[2019.10.17-22.58.35:806][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:806][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.10.17-22.58.35:806][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:806][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:807][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.10.17-22.58.35:808][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:808][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:810][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:811][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.10.17-22.58.35:812][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:812][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.10.17-22.58.35:812][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.35:813][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.10.17-22.58.35:996][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.17-22.58.36:160][  0]LogOcInput: OculusInput pre-init called
+[2019.10.17-22.58.36:342][  0]LogEngine: Initializing Engine...
+[2019.10.17-22.58.36:342][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.17-22.58.36:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.17-22.58.36:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.17-22.58.36:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.17-22.58.36:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.17-22.58.36:571][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.17-22.58.36:580][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.17-22.58.36:605][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-22.58.36:622][  0]LogInit: FAudioDevice initialized.
+[2019.10.17-22.58.36:623][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.17-22.58.36:814][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/zongt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.17-22.58.36:823][  0]LogInit: Texture streaming: Enabled
+[2019.10.17-22.58.36:837][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.17-22.58.36:847][  0]LogInit: Transaction tracking system initialized
+[2019.10.17-22.58.36:863][  0]BlueprintLog: New page: Editor Load
+[2019.10.17-22.58.36:920][  0]LocalizationService: Localization service is disabled
+[2019.10.17-22.58.37:350][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/' took 0.01s
+[2019.10.17-22.58.37:350][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.17-22.58.37:350][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.17-22.58.37:350][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.17-22.58.37:350][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.17-22.58.37:350][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.17-22.58.37:350][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.17-22.58.37:350][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.17-22.58.37:463][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:463][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.10.17-22.58.37:463][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:463][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: URL: C:\Users\zongt\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.17-22.58.37:464][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.10.17-22.58.37:465][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-22.58.37:465][  0]LightingResults: New page: Lighting Build
+[2019.10.17-22.58.37:466][  0]MapCheck: New page: Map Check
+[2019.10.17-22.58.37:466][  0]LightingResults: New page: Lighting Build
+[2019.10.17-22.58.37:789][  0]LogLinker: Warning: Can't find file '/Game/MiscAssets/Sign/Light1'
+[2019.10.17-22.58.37:789][  0]LogLinker: Warning: Can't find file for asset '/Game/MiscAssets/Sign/Light1' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset.
+[2019.10.17-22.58.37:789][  0]LoadErrors: Error: /Game/MiscAssets/Sign/Light_Light : Can't find file for asset. /Game/MiscAssets/Sign/Light1
+[2019.10.17-22.58.37:789][  0]LogLinker: Warning: Can't find file '/Game/MiscAssets/Sign/Light1'
+[2019.10.17-22.58.37:789][  0]LogLinker: Warning: Can't find file for asset '/Game/MiscAssets/Sign/Light1' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset.
+[2019.10.17-22.58.37:789][  0]LoadErrors: Error: /Game/MiscAssets/Sign/Light_Light : Can't find file for asset. /Game/MiscAssets/Sign/Light1
+[2019.10.17-22.58.38:125][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/Lamppost_Lamppost'
+[2019.10.17-22.58.38:125][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/Lamppost_Lamppost' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.10.17-22.58.38:125][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/LightingAssets/LampPost/Lamppost_Lamppost
+[2019.10.17-22.58.38:126][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/LampLight'
+[2019.10.17-22.58.38:126][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/LampLight' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost_pSphere1.uasset.
+[2019.10.17-22.58.38:126][  0]LoadErrors: Error: /Game/LightingAssets/LampPost/Lamppost_pSphere1 : Can't find file for asset. /Game/LightingAssets/LampPost/LampLight
+[2019.10.17-22.58.38:126][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/LampLight'
+[2019.10.17-22.58.38:126][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/LampLight' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost_pSphere1.uasset.
+[2019.10.17-22.58.38:127][  0]LoadErrors: Error: /Game/LightingAssets/LampPost/Lamppost_pSphere1 : Can't find file for asset. /Game/LightingAssets/LampPost/LampLight
+[2019.10.17-22.58.38:165][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/Lamppost_Lamppost'
+[2019.10.17-22.58.38:165][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/Lamppost_Lamppost' while loading ../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.10.17-22.58.38:165][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/LightingAssets/LampPost/Lamppost_Lamppost
+[2019.10.17-22.58.38:169][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/Lamppost_Lamppost'
+[2019.10.17-22.58.38:169][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/Lamppost_Lamppost' while loading NULL.
+[2019.10.17-22.58.38:170][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/Lamppost_Lamppost'
+[2019.10.17-22.58.38:170][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/Lamppost_Lamppost' while loading NULL.
+[2019.10.17-22.58.38:241][  0]LogLinker: Warning: Can't find file '/Game/MiscAssets/Sign/Light1'
+[2019.10.17-22.58.38:241][  0]LoadErrors: Failed to load /Game/MiscAssets/Sign/Light1.Light1 Referenced by Light_Light
+[2019.10.17-22.58.38:241][  0]LogLinker: Warning: Can't find file for asset '/Game/MiscAssets/Sign/Light1' while loading NULL.
+[2019.10.17-22.58.38:241][  0]LoadErrors: Failed to load /Game/MiscAssets/Sign/Light1.Light1 Referenced by Light_Light
+[2019.10.17-22.58.38:241][  0]LogLinker: Warning: Can't find file '/Game/MiscAssets/Sign/Light1'
+[2019.10.17-22.58.38:241][  0]LoadErrors: Failed to load /Game/MiscAssets/Sign/Light1.Light1 Referenced by Light_Light
+[2019.10.17-22.58.38:241][  0]LogLinker: Warning: Can't find file for asset '/Game/MiscAssets/Sign/Light1' while loading NULL.
+[2019.10.17-22.58.38:242][  0]LoadErrors: Failed to load /Game/MiscAssets/Sign/Light1.Light1 Referenced by Light_Light
+[2019.10.17-22.58.38:295][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/Lamppost_Lamppost'
+[2019.10.17-22.58.38:295][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/Lamppost_Lamppost.Lamppost_Lamppost Referenced by StaticMeshComponent0
+[2019.10.17-22.58.38:295][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/Lamppost_Lamppost' while loading NULL.
+[2019.10.17-22.58.38:295][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/Lamppost_Lamppost.Lamppost_Lamppost Referenced by StaticMeshComponent0
+[2019.10.17-22.58.38:324][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/LampLight'
+[2019.10.17-22.58.38:324][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/LampLight.LampLight Referenced by Lamppost_pSphere1
+[2019.10.17-22.58.38:324][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/LampLight' while loading NULL.
+[2019.10.17-22.58.38:324][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/LampLight.LampLight Referenced by Lamppost_pSphere1
+[2019.10.17-22.58.38:325][  0]LogLinker: Warning: Can't find file '/Game/LightingAssets/LampPost/LampLight'
+[2019.10.17-22.58.38:325][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/LampLight.LampLight Referenced by Lamppost_pSphere1
+[2019.10.17-22.58.38:325][  0]LogLinker: Warning: Can't find file for asset '/Game/LightingAssets/LampPost/LampLight' while loading NULL.
+[2019.10.17-22.58.38:325][  0]LoadErrors: Failed to load /Game/LightingAssets/LampPost/LampLight.LampLight Referenced by Lamppost_pSphere1
+[2019.10.17-22.58.39:108][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:115][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:116][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.17-22.58.39:122][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.17-22.58.39:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-22.58.39:229][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-22.58.39:229][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2019.10.17-22.58.39:229][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.765
+[2019.10.17-22.58.39:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-22.58.39:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-22.58.39:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-22.58.39:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-22.58.39:365][  0]LogCollectionManager: Loaded 0 collections in 0.000753 seconds
+[2019.10.17-22.58.39:392][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Collections/' took 0.01s
+[2019.10.17-22.58.39:392][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/Developers/Zong/Collections/' took 0.00s
+[2019.10.17-22.58.39:392][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/Collections/' took 0.01s
+[2019.10.17-22.58.39:392][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.17-22.58.39:401][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2651 classes and 620 folders.
+[2019.10.17-22.58.39:405][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.17-22.58.39:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-22.58.39:437][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.17-22.58.39:442][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.17-22.58.39:461][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.17-22.58.39:463][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.17-22.58.39:470][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.17-22.58.39:555][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-22.58.39:788][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.17-22.58.39:789][  0]LogLoad: (Engine Initialization) Total time: 10.04 seconds
+[2019.10.17-22.58.39:789][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.17-22.58.39:859][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.17-22.58.39:864][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-22.58.39:890][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-22.58.40:264][  5]LogAssetRegistry: Asset discovery search completed in 6.8710 seconds
+[2019.10.17-22.58.40:266][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.17-22.58.40:266][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.10.17-22.58.40:828][ 55]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-22.59.09:440][182]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-22.59.12:886][495]LogSlate: Window 'Message Log' being destroyed
+[2019.10.17-22.59.14:536][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-22.59.18:197][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2019.10.17-22.59.19:118][ 29]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-22.59.20:248][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-22.59.20:493][139]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-22.59.41:817][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-22.59.43:135][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-22.59.46:462][728]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.17-22.59.56:186][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.00.14:594][ 55]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.00.22:266][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.01.34:594][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.01.56:437][676]LogAssetTools: Warning: Failed to import 'D:\Documents\FIT3145\Solemn-Silence\SolemnSilenceAlpha\Content\MiscAssets\Sign\Light_Light.uasset'. Unknown extension 'uasset'.
+[2019.10.17-23.02.05:547][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.02.14:765][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Documents\FIT3145\Solemn-Silence\SolemnSilenceAlpha\Content\MiscAssets\Sign\Sign.fbx)
+[2019.10.17-23.02.14:779][176]LogFbx: Loading FBX Scene from D:\Documents\FIT3145\Solemn-Silence\SolemnSilenceAlpha\Content\MiscAssets\Sign\Sign.fbx
+[2019.10.17-23.02.14:786][176]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.17-23.02.15:919][176]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.17-23.02.16:060][176]LogFbx: Warning: Triangulating static mesh SignFace
+[2019.10.17-23.02.16:064][176]LogStaticMesh: Building static mesh Sign_SignFace...
+[2019.10.17-23.02.16:066][176]LogStaticMesh: Built static mesh [0.00s] /Game/MiscAssets/Sign/Sign_SignFace.Sign_SignFace
+[2019.10.17-23.02.16:080][176]LogFbx: Warning: Triangulating static mesh RightBorder
+[2019.10.17-23.02.16:082][176]LogStaticMesh: Building static mesh Sign_RightBorder...
+[2019.10.17-23.02.16:083][176]LogStaticMesh: Built static mesh [0.00s] /Game/MiscAssets/Sign/Sign_RightBorder.Sign_RightBorder
+[2019.10.17-23.02.16:083][176]LogStaticMesh: Warning: Sign_RightBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.17-23.02.16:083][176]LogStaticMesh: Warning: Sign_RightBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.17-23.02.16:090][176]LogFbx: Warning: Triangulating static mesh LeftBorder
+[2019.10.17-23.02.16:095][176]LogStaticMesh: Building static mesh Sign_LeftBorder...
+[2019.10.17-23.02.16:096][176]LogStaticMesh: Built static mesh [0.00s] /Game/MiscAssets/Sign/Sign_LeftBorder.Sign_LeftBorder
+[2019.10.17-23.02.16:096][176]LogStaticMesh: Warning: Sign_LeftBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.17-23.02.16:096][176]LogStaticMesh: Warning: Sign_LeftBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.17-23.02.16:111][176]LogFbx: Warning: Triangulating static mesh TopBorder
+[2019.10.17-23.02.16:113][176]LogStaticMesh: Building static mesh Sign_TopBorder...
+[2019.10.17-23.02.16:119][176]LogStaticMesh: Built static mesh [0.01s] /Game/MiscAssets/Sign/Sign_TopBorder.Sign_TopBorder
+[2019.10.17-23.02.16:123][176]LogStaticMesh: Warning: Sign_TopBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.17-23.02.16:123][176]LogStaticMesh: Warning: Sign_TopBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.17-23.02.16:135][176]LogFbx: Warning: Triangulating static mesh BottomBorder
+[2019.10.17-23.02.16:136][176]LogStaticMesh: Building static mesh Sign_BottomBorder...
+[2019.10.17-23.02.16:136][176]LogStaticMesh: Built static mesh [0.00s] /Game/MiscAssets/Sign/Sign_BottomBorder.Sign_BottomBorder
+[2019.10.17-23.02.16:137][176]LogStaticMesh: Warning: Sign_BottomBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.17-23.02.16:137][176]LogStaticMesh: Warning: Sign_BottomBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.17-23.02.16:143][176]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_RightBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_RightBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_LeftBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_LeftBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_TopBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_TopBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_BottomBorder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.17-23.02.16:144][176]FBXImport: Warning: Sign_BottomBorder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.17-23.02.22:549][685]LogSlate: Window 'Save Content' being destroyed
+[2019.10.17-23.03.52:602][859]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.17-23.04.16:081][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.10.17-23.04.18:387][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2019.10.17-23.04.19:092][  9]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (level_0_Handle)
+[2019.10.17-23.04.27:918][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.04.40:257][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2019.10.17-23.04.43:639][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.10.17-23.04.48:327][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.05.24:530][530]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.17-23.05.25:109][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wood...
+[2019.10.17-23.05.25:109][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wood.level_0_wood
+[2019.10.17-23.05.25:113][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wood...
+[2019.10.17-23.05.25:113][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wood.level_0_wood
+[2019.10.17-23.05.25:113][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wood...
+[2019.10.17-23.05.25:113][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wood.level_0_wood
+[2019.10.17-23.05.25:114][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_top...
+[2019.10.17-23.05.25:114][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_top.level_0_wall_top
+[2019.10.17-23.05.25:117][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_top...
+[2019.10.17-23.05.25:117][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_top.level_0_wall_top
+[2019.10.17-23.05.25:117][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_top...
+[2019.10.17-23.05.25:118][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_top.level_0_wall_top
+[2019.10.17-23.05.25:118][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_bottom...
+[2019.10.17-23.05.25:118][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_bottom.level_0_wall_bottom
+[2019.10.17-23.05.25:121][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_bottom...
+[2019.10.17-23.05.25:121][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_bottom.level_0_wall_bottom
+[2019.10.17-23.05.25:122][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall_bottom...
+[2019.10.17-23.05.25:122][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall_bottom.level_0_wall_bottom
+[2019.10.17-23.05.25:122][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Wall_2...
+[2019.10.17-23.05.25:122][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Wall_2.level_0_Wall_2
+[2019.10.17-23.05.25:125][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Wall_2...
+[2019.10.17-23.05.25:125][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Wall_2.level_0_Wall_2
+[2019.10.17-23.05.25:126][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Wall_2...
+[2019.10.17-23.05.25:126][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Wall_2.level_0_Wall_2
+[2019.10.17-23.05.25:126][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Wall_2...
+[2019.10.17-23.05.25:126][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Wall_2.level_0_Wall_2
+[2019.10.17-23.05.25:126][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall...
+[2019.10.17-23.05.25:127][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall.level_0_wall
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall...
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall.level_0_wall
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall...
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall.level_0_wall
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Building Skeletal Mesh level_0_wall...
+[2019.10.17-23.05.25:130][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_wall.level_0_wall
+[2019.10.17-23.05.25:131][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Torch_2...
+[2019.10.17-23.05.25:131][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Torch_2.level_0_Torch_2
+[2019.10.17-23.05.25:132][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Torch_2...
+[2019.10.17-23.05.25:132][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Torch_2.level_0_Torch_2
+[2019.10.17-23.05.25:135][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Torch_2...
+[2019.10.17-23.05.25:135][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Torch_2.level_0_Torch_2
+[2019.10.17-23.05.25:136][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Torch_2...
+[2019.10.17-23.05.25:136][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Torch_2.level_0_Torch_2
+[2019.10.17-23.05.25:136][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Torch_2...
+[2019.10.17-23.05.25:137][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Torch_2.level_0_Torch_2
+[2019.10.17-23.05.25:137][530]LogSkeletalMesh: Building Skeletal Mesh level_0_stairs...
+[2019.10.17-23.05.25:137][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_stairs.level_0_stairs
+[2019.10.17-23.05.25:140][530]LogSkeletalMesh: Building Skeletal Mesh level_0_stairs...
+[2019.10.17-23.05.25:141][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_stairs.level_0_stairs
+[2019.10.17-23.05.25:141][530]LogSkeletalMesh: Building Skeletal Mesh level_0_stairs...
+[2019.10.17-23.05.25:141][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_stairs.level_0_stairs
+[2019.10.17-23.05.25:141][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3_2...
+[2019.10.17-23.05.25:142][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3_2.level_0_Pieces_3_2
+[2019.10.17-23.05.25:142][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3_2...
+[2019.10.17-23.05.25:142][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3_2.level_0_Pieces_3_2
+[2019.10.17-23.05.25:145][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3_2...
+[2019.10.17-23.05.25:145][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3_2.level_0_Pieces_3_2
+[2019.10.17-23.05.25:146][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2_2...
+[2019.10.17-23.05.25:146][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2_2.level_0_Pieces_2_2
+[2019.10.17-23.05.25:146][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2_2...
+[2019.10.17-23.05.25:147][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2_2.level_0_Pieces_2_2
+[2019.10.17-23.05.25:150][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2_2...
+[2019.10.17-23.05.25:150][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2_2.level_0_Pieces_2_2
+[2019.10.17-23.05.25:150][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1_2...
+[2019.10.17-23.05.25:150][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1_2.level_0_Pieces_1_2
+[2019.10.17-23.05.25:151][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1_2...
+[2019.10.17-23.05.25:151][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1_2.level_0_Pieces_1_2
+[2019.10.17-23.05.25:154][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1_2...
+[2019.10.17-23.05.25:154][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1_2.level_0_Pieces_1_2
+[2019.10.17-23.05.25:154][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_5...
+[2019.10.17-23.05.25:154][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_5.level_0_Pieces_5
+[2019.10.17-23.05.25:155][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_5...
+[2019.10.17-23.05.25:155][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_5.level_0_Pieces_5
+[2019.10.17-23.05.25:155][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_5...
+[2019.10.17-23.05.25:155][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_5.level_0_Pieces_5
+[2019.10.17-23.05.25:158][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_5...
+[2019.10.17-23.05.25:158][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_5.level_0_Pieces_5
+[2019.10.17-23.05.25:159][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_4...
+[2019.10.17-23.05.25:159][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_4.level_0_Pieces_4
+[2019.10.17-23.05.25:159][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_4...
+[2019.10.17-23.05.25:160][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_4.level_0_Pieces_4
+[2019.10.17-23.05.25:160][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_4...
+[2019.10.17-23.05.25:161][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_4.level_0_Pieces_4
+[2019.10.17-23.05.25:164][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_4...
+[2019.10.17-23.05.25:164][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_4.level_0_Pieces_4
+[2019.10.17-23.05.25:171][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3...
+[2019.10.17-23.05.25:171][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3.level_0_Pieces_3
+[2019.10.17-23.05.25:172][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3...
+[2019.10.17-23.05.25:172][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3.level_0_Pieces_3
+[2019.10.17-23.05.25:172][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3...
+[2019.10.17-23.05.25:173][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3.level_0_Pieces_3
+[2019.10.17-23.05.25:175][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_3...
+[2019.10.17-23.05.25:176][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_3.level_0_Pieces_3
+[2019.10.17-23.05.25:176][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2...
+[2019.10.17-23.05.25:176][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2.level_0_Pieces_2
+[2019.10.17-23.05.25:177][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2...
+[2019.10.17-23.05.25:177][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2.level_0_Pieces_2
+[2019.10.17-23.05.25:177][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2...
+[2019.10.17-23.05.25:177][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2.level_0_Pieces_2
+[2019.10.17-23.05.25:180][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_2...
+[2019.10.17-23.05.25:180][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_2.level_0_Pieces_2
+[2019.10.17-23.05.25:181][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1...
+[2019.10.17-23.05.25:181][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1.level_0_Pieces_1
+[2019.10.17-23.05.25:181][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1...
+[2019.10.17-23.05.25:182][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1.level_0_Pieces_1
+[2019.10.17-23.05.25:182][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1...
+[2019.10.17-23.05.25:182][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1.level_0_Pieces_1
+[2019.10.17-23.05.25:185][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Pieces_1...
+[2019.10.17-23.05.25:185][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Pieces_1.level_0_Pieces_1
+[2019.10.17-23.05.25:186][530]LogSkeletalMesh: Building Skeletal Mesh level_0_metal_handle...
+[2019.10.17-23.05.25:186][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_metal_handle.level_0_metal_handle
+[2019.10.17-23.05.25:189][530]LogSkeletalMesh: Building Skeletal Mesh level_0_metal_handle...
+[2019.10.17-23.05.25:189][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_metal_handle.level_0_metal_handle
+[2019.10.17-23.05.25:189][530]LogSkeletalMesh: Building Skeletal Mesh level_0_metal_handle...
+[2019.10.17-23.05.25:190][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_metal_handle.level_0_metal_handle
+[2019.10.17-23.05.25:190][530]LogSkeletalMesh: Building Skeletal Mesh level_0_legs...
+[2019.10.17-23.05.25:190][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_legs.level_0_legs
+[2019.10.17-23.05.25:194][530]LogSkeletalMesh: Building Skeletal Mesh level_0_legs...
+[2019.10.17-23.05.25:194][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_legs.level_0_legs
+[2019.10.17-23.05.25:195][530]LogSkeletalMesh: Building Skeletal Mesh level_0_legs...
+[2019.10.17-23.05.25:195][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_legs.level_0_legs
+[2019.10.17-23.05.25:195][530]LogSkeletalMesh: Building Skeletal Mesh level_0_legs...
+[2019.10.17-23.05.25:196][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_legs.level_0_legs
+[2019.10.17-23.05.25:197][530]LogSkeletalMesh: Building Skeletal Mesh level_0_jar...
+[2019.10.17-23.05.25:197][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_jar.level_0_jar
+[2019.10.17-23.05.25:197][530]LogSkeletalMesh: Building Skeletal Mesh level_0_jar...
+[2019.10.17-23.05.25:198][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_jar.level_0_jar
+[2019.10.17-23.05.25:201][530]LogSkeletalMesh: Building Skeletal Mesh level_0_jar...
+[2019.10.17-23.05.25:201][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_jar.level_0_jar
+[2019.10.17-23.05.25:201][530]LogSkeletalMesh: Building Skeletal Mesh level_0_end...
+[2019.10.17-23.05.25:202][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_end.level_0_end
+[2019.10.17-23.05.25:205][530]LogSkeletalMesh: Building Skeletal Mesh level_0_end...
+[2019.10.17-23.05.25:205][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_end.level_0_end
+[2019.10.17-23.05.25:205][530]LogSkeletalMesh: Building Skeletal Mesh level_0_end...
+[2019.10.17-23.05.25:205][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_end.level_0_end
+[2019.10.17-23.05.25:206][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Door_2...
+[2019.10.17-23.05.25:206][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Door_2.level_0_Door_2
+[2019.10.17-23.05.25:210][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Door_2...
+[2019.10.17-23.05.25:210][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Door_2.level_0_Door_2
+[2019.10.17-23.05.25:210][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Door_2...
+[2019.10.17-23.05.25:210][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Door_2.level_0_Door_2
+[2019.10.17-23.05.25:211][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes_2...
+[2019.10.17-23.05.25:211][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes_2.level_0_cubes_2
+[2019.10.17-23.05.25:214][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes_2...
+[2019.10.17-23.05.25:214][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes_2.level_0_cubes_2
+[2019.10.17-23.05.25:214][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes_2...
+[2019.10.17-23.05.25:215][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes_2.level_0_cubes_2
+[2019.10.17-23.05.25:215][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes...
+[2019.10.17-23.05.25:215][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes.level_0_cubes
+[2019.10.17-23.05.25:218][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes...
+[2019.10.17-23.05.25:218][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes.level_0_cubes
+[2019.10.17-23.05.25:219][530]LogSkeletalMesh: Building Skeletal Mesh level_0_cubes...
+[2019.10.17-23.05.25:219][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_cubes.level_0_cubes
+[2019.10.17-23.05.25:219][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt_top...
+[2019.10.17-23.05.25:219][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt_top.level_0_crypt_top
+[2019.10.17-23.05.25:219][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt_top...
+[2019.10.17-23.05.25:220][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt_top.level_0_crypt_top
+[2019.10.17-23.05.25:222][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt_top...
+[2019.10.17-23.05.25:223][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt_top.level_0_crypt_top
+[2019.10.17-23.05.25:223][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt...
+[2019.10.17-23.05.25:223][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt.level_0_crypt
+[2019.10.17-23.05.25:223][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt...
+[2019.10.17-23.05.25:224][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt.level_0_crypt
+[2019.10.17-23.05.25:226][530]LogSkeletalMesh: Building Skeletal Mesh level_0_crypt...
+[2019.10.17-23.05.25:227][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_crypt.level_0_crypt
+[2019.10.17-23.05.25:227][530]LogSkeletalMesh: Building Skeletal Mesh level_0_corner_full...
+[2019.10.17-23.05.25:227][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_corner_full.level_0_corner_full
+[2019.10.17-23.05.25:230][530]LogSkeletalMesh: Building Skeletal Mesh level_0_corner_full...
+[2019.10.17-23.05.25:230][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_corner_full.level_0_corner_full
+[2019.10.17-23.05.25:231][530]LogSkeletalMesh: Building Skeletal Mesh level_0_corner_full...
+[2019.10.17-23.05.25:231][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_corner_full.level_0_corner_full
+[2019.10.17-23.05.25:231][530]LogSkeletalMesh: Building Skeletal Mesh level_0_column_wall_end...
+[2019.10.17-23.05.25:231][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_column_wall_end.level_0_column_wall_end
+[2019.10.17-23.05.25:234][530]LogSkeletalMesh: Building Skeletal Mesh level_0_column_wall_end...
+[2019.10.17-23.05.25:234][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_column_wall_end.level_0_column_wall_end
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Building Skeletal Mesh level_0_column_wall_end...
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_column_wall_end.level_0_column_wall_end
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Building Skeletal Mesh level_0_column_wall_end...
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_column_wall_end.level_0_column_wall_end
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column_3...
+[2019.10.17-23.05.25:235][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column_3.level_0_Column_3
+[2019.10.17-23.05.25:239][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column_3...
+[2019.10.17-23.05.25:239][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column_3.level_0_Column_3
+[2019.10.17-23.05.25:239][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column_3...
+[2019.10.17-23.05.25:239][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column_3.level_0_Column_3
+[2019.10.17-23.05.25:239][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column_3...
+[2019.10.17-23.05.25:240][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column_3.level_0_Column_3
+[2019.10.17-23.05.25:240][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column...
+[2019.10.17-23.05.25:240][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column.level_0_Column
+[2019.10.17-23.05.25:245][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column...
+[2019.10.17-23.05.25:245][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column.level_0_Column
+[2019.10.17-23.05.25:245][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column...
+[2019.10.17-23.05.25:245][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column.level_0_Column
+[2019.10.17-23.05.25:245][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Column...
+[2019.10.17-23.05.25:246][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Column.level_0_Column
+[2019.10.17-23.05.25:246][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain_2...
+[2019.10.17-23.05.25:247][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain_2.level_0_chain_2
+[2019.10.17-23.05.25:250][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain_2...
+[2019.10.17-23.05.25:252][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain_2.level_0_chain_2
+[2019.10.17-23.05.25:252][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain_2...
+[2019.10.17-23.05.25:253][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain_2.level_0_chain_2
+[2019.10.17-23.05.25:254][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Handle...
+[2019.10.17-23.05.25:254][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Handle.level_0_Handle
+[2019.10.17-23.05.25:254][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Handle...
+[2019.10.17-23.05.25:254][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Handle.level_0_Handle
+[2019.10.17-23.05.25:255][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain...
+[2019.10.17-23.05.25:256][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain.level_0_chain
+[2019.10.17-23.05.25:260][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain...
+[2019.10.17-23.05.25:261][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain.level_0_chain
+[2019.10.17-23.05.25:262][530]LogSkeletalMesh: Building Skeletal Mesh level_0_chain...
+[2019.10.17-23.05.25:263][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_chain.level_0_chain
+[2019.10.17-23.05.25:264][530]LogSkeletalMesh: Building Skeletal Mesh level_0_carpet...
+[2019.10.17-23.05.25:265][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_carpet.level_0_carpet
+[2019.10.17-23.05.25:265][530]LogSkeletalMesh: Building Skeletal Mesh level_0_carpet...
+[2019.10.17-23.05.25:266][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_carpet.level_0_carpet
+[2019.10.17-23.05.25:269][530]LogSkeletalMesh: Building Skeletal Mesh level_0_carpet...
+[2019.10.17-23.05.25:269][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_carpet.level_0_carpet
+[2019.10.17-23.05.25:270][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Body...
+[2019.10.17-23.05.25:270][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Body.level_0_Body
+[2019.10.17-23.05.25:273][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Body...
+[2019.10.17-23.05.25:274][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Body.level_0_Body
+[2019.10.17-23.05.25:275][530]LogSkeletalMesh: Building Skeletal Mesh level_0_Body...
+[2019.10.17-23.05.25:275][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Body.level_0_Body
+[2019.10.17-23.05.25:276][530]LogSkeletalMesh: Building Skeletal Mesh level_0_big_column...
+[2019.10.17-23.05.25:276][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_big_column.level_0_big_column
+[2019.10.17-23.05.25:279][530]LogSkeletalMesh: Building Skeletal Mesh level_0_big_column...
+[2019.10.17-23.05.25:279][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_big_column.level_0_big_column
+[2019.10.17-23.05.25:282][530]LogSkeletalMesh: Building Skeletal Mesh level_0_big_column...
+[2019.10.17-23.05.25:283][530]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_big_column.level_0_big_column
+[2019.10.17-23.05.42:914][631]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ObjectiveAssets/DungeonAssets/level_0_Handle.level_0_Handle
+[2019.10.17-23.05.42:919][631]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.17-23.05.43:111][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.17-23.05.43:113][631]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.10.17-23.05.43:160][631]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.17-23.05.43:460][631]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.10.17-23.05.45:858][796]LogRenderer: Reallocating scene render targets to support 1208x896 Format 10 NumSamples 1 (Frame:170).
+[2019.10.17-23.05.45:964][807]LogSlate: Window 'level_0_Handle*' being destroyed
+[2019.10.17-23.05.52:416][543]LogSkeletalMesh: Building Skeletal Mesh level_0_Handle...
+[2019.10.17-23.05.52:417][543]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Handle.level_0_Handle
+[2019.10.17-23.05.56:465][ 15]LogSkeletalMesh: Building Skeletal Mesh level_0_Handle...
+[2019.10.17-23.05.56:465][ 15]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ObjectiveAssets/DungeonAssets/level_0_Handle.level_0_Handle
+[2019.10.17-23.05.59:688][392]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/level_0_Handle6590C8164850093453C2B8B4F3D49367.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ObjectiveAssets/DungeonAssets/level_0_Handle.uasset'
+[2019.10.17-23.06.04:064][778]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (level_0_Handle)
+[2019.10.17-23.06.09:157][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.06.09:919][135]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMapB29210474D509D23D58DA6B04DF29F4F.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.17-23.06.11:328][135]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap_BuiltDataDBAE766740184C28AC49EE86BA08DAEF.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.17-23.06.14:278][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.10.17-23.06.22:686][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.07.08:096][ 50]LogAssetEditorManager: Opening Asset editor for Material /Game/MiscAssets/Sign/Light.Light
+[2019.10.17-23.07.08:099][ 50]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.08:226][ 50]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.08:243][ 50]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.08:263][ 50]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.08:263][ 50]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.08:263][ 50]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.08:342][ 50]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.17-23.07.09:044][114]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.09:085][119]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.09:192][131]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.09:362][151]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.09:370][152]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.09:474][164]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.09:607][179]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.09:763][197]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.09:803][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-23.07.10:159][238]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.17-23.07.10:358][261]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.17-23.07.10:482][275]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.17-23.07.10:778][309]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.17-23.07.10:804][312]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.17-23.07.10:956][329]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.17-23.07.11:240][361]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.17-23.07.11:335][372]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.17-23.07.11:440][384]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.17-23.07.16:748][ 15]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.16:764][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.16:771][ 15]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.17-23.07.16:771][ 15]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.17-23.07.16:771][ 15]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.16:790][ 15]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.16:818][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.17:137][ 49]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.17:162][ 52]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.17:232][ 60]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.17:382][ 77]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.17:488][ 89]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.17:505][ 91]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.17:677][111]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.17:772][122]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.17:867][133]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.17:876][134]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.18:047][154]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.18:439][199]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.18:562][213]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-23.07.18:605][218]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.17-23.07.19:045][267]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.17-23.07.19:226][288]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.17-23.07.19:484][318]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.17-23.07.19:969][374]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.17-23.07.19:985][376]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.17-23.07.20:203][401]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.17-23.07.20:228][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.20:260][402]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.20:602][439]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.20:735][455]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.20:831][466]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.21:065][492]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.21:089][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.21:121][492]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.21:124][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.21:141][492]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.21:156][492]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.21:175][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.17-23.07.21:191][492]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.21:206][492]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.21:221][492]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.17-23.07.21:493][523]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.21:570][532]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.21:613][537]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.21:925][573]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.21:984][580]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.22:031][585]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.22:273][612]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.22:315][617]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.22:350][621]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.22:573][647]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.22:633][654]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.22:660][657]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.22:795][672]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.22:907][684]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-23.07.23:264][725]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.17-23.07.23:393][740]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.17-23.07.23:620][766]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.17-23.07.23:937][802]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.17-23.07.23:986][808]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.17-23.07.24:261][840]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.17-23.07.24:745][895]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.17-23.07.24:906][913]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.17-23.07.24:921][915]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.17-23.07.25:571][983]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.10.17-23.07.25:571][983]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.10.17-23.07.25:571][983]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.17-23.07.25:571][983]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.17-23.07.27:725][237]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.27:740][237]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.27:740][237]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.27:740][237]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.28:030][271]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.28:037][272]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.28:080][277]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.28:195][290]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.28:284][300]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.28:291][301]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.28:407][314]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.28:412][314]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.28:463][314]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.28:466][314]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.28:488][314]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.28:492][314]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.28:732][337]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.28:749][339]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.28:955][361]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.28:963][362]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.29:236][392]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.29:245][393]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.17-23.07.29:261][395]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.17-23.07.29:501][419]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.29:510][420]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.29:931][468]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.30:450][526]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.30:571][540]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.30:946][580]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.30:997][586]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.31:137][602]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.31:399][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.31:591][654]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.31:914][691]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.31:931][693]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.32:233][727]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.32:463][752]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-23.07.32:479][754]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.17-23.07.32:814][792]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.17-23.07.32:874][799]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.17-23.07.33:341][852]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.17-23.07.33:349][853]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.17-23.07.33:463][863]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.17-23.07.33:536][869]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.33:562][869]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.33:816][894]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.34:033][919]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.34:062][922]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.34:224][940]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.34:294][948]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.34:508][973]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.17-23.07.34:586][982]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.17-23.07.34:747][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.34:812][  8]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.35:153][ 47]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.35:397][ 75]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.35:657][105]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.35:854][128]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.35:915][135]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.36:251][173]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.36:310][179]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.36:335][179]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.36:356][179]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.36:592][206]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.36:802][230]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.36:836][234]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.37:002][253]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.37:099][264]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.17-23.07.37:106][265]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.17-23.07.37:236][280]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.37:390][298]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.37:597][320]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.37:826][344]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.37:931][356]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.37:964][360]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.38:059][371]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.38:145][381]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.38:233][391]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.17-23.07.38:285][397]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.17-23.07.38:321][401]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.38:434][414]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.38:857][460]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.38:944][470]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.39:337][515]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.39:501][534]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.39:528][537]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.40:154][607]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.40:214][614]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.40:806][680]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.40:858][687]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.40:875][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.41:243][731]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.41:380][746]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.41:487][756]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.41:724][783]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.41:891][802]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.41:989][813]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.42:007][815]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.42:135][829]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.42:156][829]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.17-23.07.42:168][831]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.17-23.07.42:248][840]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.17-23.07.42:423][860]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.17-23.07.42:439][862]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.17-23.07.42:567][877]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.17-23.07.42:689][890]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.17-23.07.42:766][899]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.17-23.07.42:901][914]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.07.43:439][976]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.43:447][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-23.07.43:863][ 24]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.17-23.07.44:008][ 41]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.17-23.07.44:109][ 53]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.17-23.07.44:564][105]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.17-23.07.44:623][112]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.17-23.07.45:367][196]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.17-23.07.45:445][205]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.17-23.07.45:482][209]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.07.45:851][251]LogMaterialEditor: Saving and Compiling material Light
+[2019.10.17-23.07.46:239][251]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.46:239][251]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-23.07.46:255][251]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.46:341][251]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.46:373][251]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2019.10.17-23.07.46:431][251]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Light, compiling. 
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.10.17-23.07.49:514][251]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.10.17-23.07.49:515][251]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.10.17-23.07.49:516][251]TextureStreamingBuild: Display: Compiling optional shaders took 3.092 seconds.
+[2019.10.17-23.07.52:978][251]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.17-23.07.52:978][251]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.17-23.07.52:978][251]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.17-23.07.53:013][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Light" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light.uasset" SILENT=true
+[2019.10.17-23.07.53:028][251]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Light3503CDAD49EE77971469BF878FE9BC77.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light.uasset'
+[2019.10.17-23.07.53:044][251]MaterialEditorStats: Base pass shader: 68 instructions
+[2019.10.17-23.07.53:044][251]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 89 instructions
+[2019.10.17-23.07.53:044][251]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2019.10.17-23.07.53:044][251]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.17-23.07.58:327][630]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MiscAssets/Sign/Light_Light.Light_Light
+[2019.10.17-23.07.58:613][631]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-23.08.05:951][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Light_Light" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset" SILENT=true
+[2019.10.17-23.08.05:973][489]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Light_Light0AA22A1145E2C0B13157848797640B2F.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset'
+[2019.10.17-23.08.12:307][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.08.23:230][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.08.23:396][612]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MiscAssets/Sign/SignBP.SignBP
+[2019.10.17-23.08.23:777][612]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.10.17-23.08.35:423][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.08.47:016][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/LightMAT" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/LightMAT.uasset" SILENT=true
+[2019.10.17-23.08.47:031][787]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/LightMAT72EC119749EB8E5491B27CB50B72331D.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/LightMAT.uasset'
+[2019.10.17-23.08.47:252][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Light_Light" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset" SILENT=true
+[2019.10.17-23.08.47:262][787]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Light_Light863701AE47EC2153D43FFCA726C523D1.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Light_Light.uasset'
+[2019.10.17-23.08.57:147][439]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/WoodenBordersMATF0ABBBC649B9D74F270BCF9BB8507F31.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/WoodenBordersMAT.uasset'
+[2019.10.17-23.08.57:400][439]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Sign_BottomBorder1929ACFF4F590206EE0836AA1D9F8E2F.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_BottomBorder.uasset'
+[2019.10.17-23.08.57:415][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Sign_LeftBorder" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_LeftBorder.uasset" SILENT=true
+[2019.10.17-23.08.57:437][439]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Sign_LeftBorder4F34B2774CE63E05451EBBBF2805EA3D.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_LeftBorder.uasset'
+[2019.10.17-23.08.57:474][439]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Sign_RightBorder86BD782246747D5AB8FB81882A82CA1B.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_RightBorder.uasset'
+[2019.10.17-23.08.57:489][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Sign_TopBorder" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_TopBorder.uasset" SILENT=true
+[2019.10.17-23.08.57:510][439]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Sign_TopBorder6A22316B4CE346E0C59A8592A355B233.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_TopBorder.uasset'
+[2019.10.17-23.08.59:111][492]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap6004DF8B4913135ABD76CA973F99569E.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.17-23.09.00:486][492]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap_BuiltDataFA71F1AF479AA9A1CA87D6971CAEBBC9.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.17-23.09.03:656][813]BlueprintLog: New page: Compile SignBP
+[2019.10.17-23.09.04:819][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/SignBP" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/SignBP.uasset" SILENT=true
+[2019.10.17-23.09.04:860][913]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/SignBPA24D32F84C202E0074B499825B9B0516.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/SignBP.uasset'
+[2019.10.17-23.11.36:013][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.11.38:593][649]AssetReimport: New page: Outstanding source content changes 9:11:38 pm
+[2019.10.17-23.11.38:594][649]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost.fbx)
+[2019.10.17-23.11.38:601][649]LogFbx: Loading FBX Scene from D:/Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost.fbx
+[2019.10.17-23.11.38:608][649]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.17-23.11.40:618][649]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.17-23.11.40:712][649]LogStaticMesh: Building static mesh Lamppost_Lamppost...
+[2019.10.17-23.11.40:724][649]LogStaticMesh: Built static mesh [0.01s] /Game/LightingAssets/LampPost/Lamppost_Lamppost.Lamppost_Lamppost
+[2019.10.17-23.11.40:804][649]LogStaticMesh: Building static mesh Lamppost_pSphere1...
+[2019.10.17-23.11.40:812][649]LogStaticMesh: Built static mesh [0.01s] /Game/LightingAssets/LampPost/Lamppost_pSphere1.Lamppost_pSphere1
+[2019.10.17-23.11.40:880][650]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Lamppost20FDBEFD40D8FFA9111130A72F077E36.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost.uasset'
+[2019.10.17-23.11.41:812][758]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.17-23.11.43:683][973]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.17-23.11.44:040][ 12]AssetReimport: Importing new asset /Game/LightingAssets/LampPost/Lamppost.
+[2019.10.17-23.11.44:508][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.17-23.11.54:668][636]LogActorFactory: Actor Factory created Lamppost_Lamppost
+[2019.10.17-23.11.55:452][685]LogActorFactory: Actor Factory created Lamppost_Lamppost
+[2019.10.17-23.12.01:939][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.12.02:210][126]LogActorFactory: Actor Factory created Lamppost_pSphere1
+[2019.10.17-23.12.03:157][191]LogActorFactory: Actor Factory created Lamppost_pSphere1
+[2019.10.17-23.12.05:550][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.12.16:198][221]Cmd: DELETE
+[2019.10.17-23.12.16:198][221]Cmd: ACTOR DELETE
+[2019.10.17-23.12.16:224][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-23.12.16:224][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-23.12.16:225][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-23.12.16:225][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-23.12.16:257][221]LogEditorActor: Deleted 4 Actors (0.058 secs)
+[2019.10.17-23.12.18:018][349]LogActorFactory: Actor Factory created Lamppost_Lamppost
+[2019.10.17-23.12.18:505][380]LogActorFactory: Actor Factory created Lamppost_Lamppost
+[2019.10.17-23.12.21:208][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.12.21:388][552]LogActorFactory: Actor Factory created Lamppost_pSphere1
+[2019.10.17-23.12.22:229][606]LogActorFactory: Actor Factory created Lamppost_pSphere1
+[2019.10.17-23.12.23:980][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.12.41:817][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.12.43:043][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.12.58:954][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.13.00:870][ 71]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.13.11:144][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.13.16:702][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.13.17:787][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.13.44:942][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.13.46:412][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.14.06:700][488]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2019.10.17-23.14.07:071][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.17-23.14.26:653][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.14.27:474][380]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap1BE8ACC842C8B7576FC497B05A7773B8.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.17-23.14.28:897][380]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap_BuiltData656FD45048FF75BDDA4030B299F93CA7.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.17-23.14.37:202][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.14.43:167][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.14.44:882][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.14.44:906][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiscAssets/Sign/Sign_SignFace" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_SignFace.uasset" SILENT=true
+[2019.10.17-23.14.44:928][602]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Sign_SignFaceAF3287AC4A479730B23700AD7CFD7055.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/MiscAssets/Sign/Sign_SignFace.uasset'
+[2019.10.17-23.14.44:961][602]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Lamppost_Lamppost26E5362B45558AC46881DF8CC7B59A1B.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost_Lamppost.uasset'
+[2019.10.17-23.14.44:978][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightingAssets/LampPost/Lamp" FILE="../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamp.uasset" SILENT=true
+[2019.10.17-23.14.44:995][602]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Lamp136C731E4D7199155EE6FE9D0B2C34A9.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamp.uasset'
+[2019.10.17-23.14.45:026][602]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/Lamppost_pSphere1273BAC90439FC0050DE014AFFEA1C455.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/Lamppost_pSphere1.uasset'
+[2019.10.17-23.14.45:058][602]LogSavePackage: Moving '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Saved/LampLightD2A03AAF460FE3D980C766B0B67973C1.tmp' to '../../../../../../Documents/FIT3145/Solemn-Silence/SolemnSilenceAlpha/Content/LightingAssets/LampPost/LampLight.uasset'
+[2019.10.17-23.14.46:681][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
