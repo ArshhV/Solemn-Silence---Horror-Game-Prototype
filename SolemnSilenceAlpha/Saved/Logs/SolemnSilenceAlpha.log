@@ -2417,3 +2417,594 @@ Script Stack (0 frames):
 [2019.10.19-04.31.17:527][560]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BP_LeverD4214D4546E64147F159A088DA872710.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/StarterContent/Blueprints/BP_Lever.uasset'
 [2019.10.19-04.31.17:572][560]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BP_Wire1invisible77896117479A78EEC0EC6D8D802F2D06.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/StarterContent/Blueprints/BP_Wire1invisible.uasset'
 [2019.10.19-04.31.17:631][560]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BP_Wire2invisible4ACA1C194F44FBE122A1D896822150A9.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/StarterContent/Blueprints/BP_Wire2invisible.uasset'
+[2019.10.19-04.32.22:361][ 27]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.32.22:361][ 27]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.32.22:363][ 27]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.32.22:365][ 27]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.32.22:794][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.32.22:795][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.10.19-04.33.15:626][117]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MiscAssets/Sign/SignBP.SignBP
+[2019.10.19-04.33.39:377][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.19-04.33.40:166][539]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.19-04.33.45:397][833]LogSlate: Took 0.006883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.19-04.34.22:038][ 13]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.34.29:397][437]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.34.41:239][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall32)
+[2019.10.19-04.35.01:393][110]LogEditorViewport: Clicking on Actor (LMB): BP_CTRLdoor_C (BP_CTRLdoor)
+[2019.10.19-04.35.05:172][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-04.35.42:832][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-04.35.53:587][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-04.35.57:552][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-04.37.26:548][617]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.37.33:890][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.19-04.37.33:911][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.37.33:911][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-04.37.33:911][ 28]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 20, 2019, 2:37:33 AM)
+[2019.10.19-04.37.33:911][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.19-04.37.33:961][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049063s)
+[2019.10.19-04.37.33:962][ 28]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.19-04.37.33:962][ 28]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2019.10.19-04.37.33:962][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050588s)
+[2019.10.19-04.37.34:014][ 28]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.19-04.37.34:034][ 28]LogInit: FAudioDevice initialized.
+[2019.10.19-04.37.34:040][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.37.34:164][ 28]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:167][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.37.34:174][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.37.34:187][ 28]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.19-15.37.34
+[2019.10.19-04.37.34:189][ 28]LogWorld: Bringing up level for play took: 0.023897
+[2019.10.19-04.37.34:206][ 28]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.192
+[2019.10.19-04.37.34:207][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.37.42:404][507]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.37.42:902][536]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.38.13:579][324]LogBlueprintUserMessages: [BP_valveInteract_2] Valve Obtained.
+[2019.10.19-04.38.14:461][377]LogBlueprintUserMessages: [BP_valve_2] Valve inserted and rotated.
+[2019.10.19-04.38.48:198][329]LogBlueprintUserMessages: [BP_pipeInteract_2] Pipe Part Obtained.
+[2019.10.19-04.39.02:354][162]LogBlueprintUserMessages: [BP_pipe_2] Pipe inserted.
+[2019.10.19-04.39.51:320][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.39.51:320][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.39.51:347][901]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.19-04.39.51:414][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-04.39.51:415][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.39.51:508][902]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.10.19-04.40.11:388][ 89]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.40.37:571][529]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.40.39:936][658]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.19-04.40.39:961][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.40.39:961][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-04.40.39:961][658]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 20, 2019, 2:40:39 AM)
+[2019.10.19-04.40.39:961][658]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.19-04.40.40:006][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045376s)
+[2019.10.19-04.40.40:006][658]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.19-04.40.40:007][658]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.10.19-04.40.40:007][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046257s)
+[2019.10.19-04.40.40:070][658]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.19-04.40.40:088][658]LogInit: FAudioDevice initialized.
+[2019.10.19-04.40.40:097][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.40.40:226][658]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.19-04.40.40:228][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:228][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:228][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:228][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:229][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.40.40:233][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.40.40:243][658]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.19-15.40.40
+[2019.10.19-04.40.40:245][658]LogWorld: Bringing up level for play took: 0.017721
+[2019.10.19-04.40.40:262][658]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.137
+[2019.10.19-04.40.40:262][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.40.44:644][912]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.40.44:677][914]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.40.44:710][916]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Closed
+[2019.10.19-04.40.44:728][917]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.40.58:388][693]LogBlueprintUserMessages: [BP_pipeInteract_2] Pipe Part Obtained.
+[2019.10.19-04.41.12:323][512]LogBlueprintUserMessages: [BP_pipe_2] Pipe inserted.
+[2019.10.19-04.41.15:766][718]LogBlueprintUserMessages: [BP_valveInteract_2] Valve Obtained.
+[2019.10.19-04.41.16:452][759]LogBlueprintUserMessages: [BP_valve_2] Valve inserted and rotated.
+[2019.10.19-04.41.40:373][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.41.40:374][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.41.40:399][122]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.19-04.41.40:462][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-04.41.40:462][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.41.40:520][123]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.10.19-04.42.10:281][903]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.42.12:296][  2]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.19-04.42.12:323][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.42.12:323][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-04.42.12:324][  2]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 20, 2019, 2:42:12 AM)
+[2019.10.19-04.42.12:324][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.19-04.42.12:373][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049377s)
+[2019.10.19-04.42.12:374][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.19-04.42.12:374][  2]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.10.19-04.42.12:374][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050583s)
+[2019.10.19-04.42.12:423][  2]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.19-04.42.12:444][  2]LogInit: FAudioDevice initialized.
+[2019.10.19-04.42.12:451][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.42.12:589][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:593][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.42.12:598][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.42.12:607][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.19-15.42.12
+[2019.10.19-04.42.12:611][  2]LogWorld: Bringing up level for play took: 0.020662
+[2019.10.19-04.42.12:630][  2]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.231
+[2019.10.19-04.42.12:630][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.42.16:580][225]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.42.16:647][229]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.42.16:780][237]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Closed
+[2019.10.19-04.42.16:797][238]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.42.31:692][ 73]LogBlueprintUserMessages: [BP_pipeInteract_2] Pipe Part Obtained.
+[2019.10.19-04.42.46:115][929]LogBlueprintUserMessages: [BP_pipe_2] Pipe inserted.
+[2019.10.19-04.42.47:548][ 15]LogBlueprintUserMessages: [BP_valveInteract_2] Valve Obtained.
+[2019.10.19-04.42.48:131][ 50]LogBlueprintUserMessages: [BP_valve_2] Valve inserted and rotated.
+[2019.10.19-04.42.51:915][273]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-25.32 Y=-22.90 Z=0.00 Location: X=5656.51 Y=-3236.88 Z=228.36 Normal: X=0.03 Y=1.00 Z=0.00 PenetrationDepth:17.871 Actor:PipeRoomDoor_2 Component:WoodDoorMesh BoneName:None (0 other events since notify)
+[2019.10.19-04.43.06:682][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.43.06:683][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.43.06:711][130]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.19-04.43.06:760][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-04.43.06:761][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.43.06:819][131]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.10.19-04.43.36:104][867]BlueprintLog: New page: Compile BP_CTRLdoor
+[2019.10.19-04.43.37:632][941]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.19-04.43.37:655][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.43.37:656][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-04.43.37:656][941]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 20, 2019, 2:43:37 AM)
+[2019.10.19-04.43.37:656][941]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.19-04.43.37:702][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045678s)
+[2019.10.19-04.43.37:702][941]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.19-04.43.37:702][941]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.10.19-04.43.37:703][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046593s)
+[2019.10.19-04.43.37:742][941]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.19-04.43.37:761][941]LogInit: FAudioDevice initialized.
+[2019.10.19-04.43.37:769][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.43.37:878][941]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:882][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.19-04.43.37:886][941]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.19-04.43.37:896][941]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.19-15.43.37
+[2019.10.19-04.43.37:898][941]LogWorld: Bringing up level for play took: 0.018393
+[2019.10.19-04.43.37:917][941]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.482
+[2019.10.19-04.43.37:918][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.43.42:656][217]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.43.43:368][258]LogBlueprintUserMessages: [BP_pressurePlateRoom2_8] Pipe Room Unlocked
+[2019.10.19-04.43.56:331][996]LogBlueprintUserMessages: [BP_pipeInteract_2] Pipe Part Obtained.
+[2019.10.19-04.44.15:761][135]LogBlueprintUserMessages: [BP_pipe_2] Pipe inserted.
+[2019.10.19-04.44.17:218][221]LogBlueprintUserMessages: [BP_valveInteract_2] Valve Obtained.
+[2019.10.19-04.44.17:768][254]LogBlueprintUserMessages: [BP_valve_2] Valve inserted and rotated.
+[2019.10.19-04.44.47:953][961]LogBlueprintUserMessages: [BP_Wire1_5] Wire Piece Obtained.
+[2019.10.19-04.44.49:105][ 20]LogBlueprintUserMessages: [BP_pressurePlates_2] Door Unlocked
+[2019.10.19-04.44.51:089][123]LogBlueprintUserMessages: [BP_SwitchDoor3] Door Locked
+[2019.10.19-04.44.52:524][196]LogBlueprintUserMessages: [BP_Wire1invisible_2] Wire 1 inserted.
+[2019.10.19-04.44.55:546][352]LogBlueprintUserMessages: [BP_Wire2_7] Wire Piece Obtained.
+[2019.10.19-04.44.57:772][461]LogBlueprintUserMessages: [BP_Wire2invisible_2] Wire 2 inserted.
+[2019.10.19-04.45.01:476][650]LogBlueprintUserMessages: [BP_Lever_2] Control Table Lever Piece Obtained.
+[2019.10.19-04.45.03:070][733]LogBlueprintUserMessages: [BP_Leverinvisible1_2] Lever inserted.
+[2019.10.19-04.45.03:070][733]LogBlueprintUserMessages: [BP_Leverinvisible1_2] Both wires inserted.
+[2019.10.19-04.45.07:990][984]LogBlueprintUserMessages: [BP_pressurePlates1_2] Door Unlocked
+[2019.10.19-04.45.09:989][ 86]LogBlueprintUserMessages: [BP_SwitchDoor3] Door Locked
+[2019.10.19-04.45.16:878][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.45.16:878][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-04.45.16:905][495]LogSlate: Window 'SolemnSilenceAlpha Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.19-04.45.16:951][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-04.45.16:951][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.19-04.45.17:018][496]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.10.19-04.45.22:211][757]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMapC420EBB04A1714119741A7B99C2986FB.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.19-04.45.22:248][757]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.761
+[2019.10.19-04.45.22:309][757]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/BP_CTRLdoorB6D71AE2411090707CD58795F7F85344.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/StarterContent/Blueprints/BP_CTRLdoor.uasset'
+[2019.10.19-04.46.20:064][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-04.46.20:903][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-04.46.20:914][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-04.46.22:253][663]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.19-04.46.22:861][695]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.19-04.46.23:427][725]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.19-04.46.26:544][854]LogSavePackage: Moving '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Saved/ThirdPersonExampleMap5838BDA349BDE6AEF9ED67958760C53D.tmp' to '../../../../../../Users/Arshh Vinayak/Documents/GitHub/Solemn-Silence/SolemnSilenceAlpha/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.19-04.46.26:583][854]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.814
+[2019.10.19-04.46.38:091][285]LogSlate: Window 'SolemnSilenceAlpha - Unreal Editor' being destroyed
+[2019.10.19-04.46.38:405][286]Cmd: QUIT_EDITOR
+[2019.10.19-04.46.39:078][286]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.19-04.46.39:126][286]LogExit: Preparing to exit.
+[2019.10.19-04.46.40:401][286]LogExit: Editor shut down
+[2019.10.19-04.46.40:403][286]LogExit: Transaction tracking system shut down
+[2019.10.19-04.46.40:778][286]LogExit: Object subsystem successfully closed.
+[2019.10.19-04.46.40:824][286]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.19-04.46.40:833][286]LogD3D11RHI: Shutdown
+[2019.10.19-04.46.40:833][286]LogD3D11RHI: CleanupD3DDevice
+[2019.10.19-04.46.40:845][286]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.19-04.46.40:922][286]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.10.19-04.46.40:922][286]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.10.19-04.46.40:922][286]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.10.19-04.46.40:923][286]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.10.19-04.46.40:923][286]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.10.19-04.46.40:923][286]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.10.19-04.46.40:923][286]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.10.19-04.46.40:927][286]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.10.19-04.46.40:927][286]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.10.19-04.46.40:927][286]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.10.19-04.46.40:928][286]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.10.19-04.46.40:929][286]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.10.19-04.46.40:929][286]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.10.19-04.46.40:932][286]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.10.19-04.46.40:933][286]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.10.19-04.46.40:934][286]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.10.19-04.46.40:935][286]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.10.19-04.46.40:935][286]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.10.19-04.46.40:935][286]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.10.19-04.46.40:936][286]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.10.19-04.46.40:938][286]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.10.19-04.46.40:938][286]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.10.19-04.46.40:940][286]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.10.19-04.46.40:942][286]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.10.19-04.46.40:943][286]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.10.19-04.46.40:944][286]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.10.19-04.46.40:945][286]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.10.19-04.46.40:946][286]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.10.19-04.46.40:947][286]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.10.19-04.46.40:950][286]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.10.19-04.46.40:951][286]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.10.19-04.46.40:951][286]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.10.19-04.46.40:951][286]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.10.19-04.46.40:951][286]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.10.19-04.46.40:951][286]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.10.19-04.46.42:184][286]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.10.19-04.46.42:187][286]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.10.19-04.46.42:188][286]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.10.19-04.46.42:188][286]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.10.19-04.46.42:189][286]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.10.19-04.46.42:189][286]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.10.19-04.46.42:189][286]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.10.19-04.46.42:190][286]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.10.19-04.46.42:191][286]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.10.19-04.46.42:191][286]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.10.19-04.46.42:192][286]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.10.19-04.46.42:192][286]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.10.19-04.46.42:192][286]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.10.19-04.46.42:258][286]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.10.19-04.46.42:259][286]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.10.19-04.46.42:260][286]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.10.19-04.46.42:262][286]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.10.19-04.46.42:262][286]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.10.19-04.46.42:262][286]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.10.19-04.46.42:263][286]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.10.19-04.46.42:264][286]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.10.19-04.46.42:264][286]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.10.19-04.46.42:264][286]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.10.19-04.46.42:273][286]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.10.19-04.46.42:273][286]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.10.19-04.46.42:273][286]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.10.19-04.46.42:273][286]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.10.19-04.46.42:273][286]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.10.19-04.46.42:274][286]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.10.19-04.46.42:274][286]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.10.19-04.46.42:274][286]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.10.19-04.46.42:274][286]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.10.19-04.46.42:274][286]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.10.19-04.46.42:275][286]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.10.19-04.46.42:276][286]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.10.19-04.46.42:279][286]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.19-04.46.42:314][286]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.19-04.46.42:316][286]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.19-04.46.42:317][286]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.19-04.46.42:318][286]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.19-04.46.42:320][286]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.10.19-04.46.42:320][286]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.10.19-04.46.42:320][286]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.10.19-04.46.42:323][286]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.10.19-04.46.42:323][286]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.10.19-04.46.42:323][286]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.10.19-04.46.42:323][286]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.19-04.46.42:324][286]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.19-04.46.42:327][286]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.19-04.46.42:328][286]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.19-04.46.42:328][286]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.19-04.46.42:329][286]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.19-04.46.42:330][286]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.19-04.46.42:332][286]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.19-04.46.42:333][286]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.19-04.46.42:333][286]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.10.19-04.46.42:334][286]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.10.19-04.46.42:335][286]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.19-04.46.42:336][286]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.19-04.46.42:438][286]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.19-04.46.42:540][286]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.19-04.46.42:540][286]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.19-04.46.42:541][286]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.19-04.46.42:541][286]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.19-04.46.42:541][286]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.19-04.46.42:541][286]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.19-04.46.42:542][286]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.19-04.46.42:544][286]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.19-04.46.42:545][286]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.19-04.46.42:545][286]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.19-04.46.42:545][286]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.19-04.46.42:547][286]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.19-04.46.42:548][286]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.19-04.46.42:549][286]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.19-04.46.42:549][286]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.19-04.46.42:549][286]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.19-04.46.42:549][286]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.19-04.46.42:550][286]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.10.19-04.46.42:550][286]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.10.19-04.46.42:552][286]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.10.19-04.46.42:558][286]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.10.19-04.46.42:558][286]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.10.19-04.46.42:558][286]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.10.19-04.46.42:559][286]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.10.19-04.46.42:559][286]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.10.19-04.46.42:559][286]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.10.19-04.46.42:559][286]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.10.19-04.46.42:560][286]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.10.19-04.46.42:561][286]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.10.19-04.46.42:561][286]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.10.19-04.46.42:563][286]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.10.19-04.46.42:563][286]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.10.19-04.46.42:565][286]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.10.19-04.46.42:565][286]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.10.19-04.46.42:565][286]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.10.19-04.46.42:565][286]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.10.19-04.46.42:568][286]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.10.19-04.46.42:568][286]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.10.19-04.46.42:570][286]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.10.19-04.46.42:570][286]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.10.19-04.46.42:575][286]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.10.19-04.46.42:576][286]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.10.19-04.46.42:576][286]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.10.19-04.46.42:576][286]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.10.19-04.46.42:576][286]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.10.19-04.46.42:578][286]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.10.19-04.46.42:578][286]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.10.19-04.46.42:578][286]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.10.19-04.46.42:579][286]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.10.19-04.46.42:579][286]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.10.19-04.46.42:620][286]LogDerivedDataCache: Shutdown
+[2019.10.19-04.46.42:620][286]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.10.19-04.46.42:620][286]LogXGEController: Cleaning working directory: C:/Users/Arshh Vinayak/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.19-04.46.42:620][286]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.10.19-04.46.42:621][286]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.10.19-04.46.42:621][286]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.10.19-04.46.42:622][286]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.10.19-04.46.42:622][286]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.10.19-04.46.42:622][286]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.10.19-04.46.42:623][286]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.10.19-04.46.42:623][286]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.10.19-04.46.42:623][286]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.10.19-04.46.42:624][286]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.10.19-04.46.42:631][286]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.10.19-04.46.42:631][286]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.10.19-04.46.42:631][286]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.10.19-04.46.42:631][286]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.10.19-04.46.42:631][286]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.10.19-04.46.42:634][286]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.10.19-04.46.42:634][286]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.10.19-04.46.42:635][286]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.10.19-04.46.42:635][286]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.10.19-04.46.42:661][286]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.10.19-04.46.42:661][286]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.10.19-04.46.42:662][286]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.10.19-04.46.42:663][286]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.19-04.46.42:663][286]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.10.19-04.46.42:663][286]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.10.19-04.46.42:663][286]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.10.19-04.46.42:663][286]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.10.19-04.46.42:663][286]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.10.19-04.46.42:665][286]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.10.19-04.46.42:667][286]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.10.19-04.46.42:687][286]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.10.19-04.46.42:687][286]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.19-04.46.42:687][286]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5C07994-4A3E-F0AD-E1B1-4C971EB606C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d382aa0d40beaa0efa9881b70d45db49%7Cb9cf6eb03f9b42ad814954382c08f1ce%7C9232f882-8582-438c-89ad-32b68a9c3dff&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.19-04.46.42:711][286]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.10.19-04.46.42:714][286]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.10.19-04.46.42:714][286]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.10.19-04.46.42:714][286]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.10.19-04.46.42:714][286]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.10.19-04.46.42:714][286]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.10.19-04.46.42:715][286]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.10.19-04.46.42:715][286]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.10.19-04.46.42:715][286]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.19-04.46.42:715][286]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.10.19-04.46.42:716][286]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.10.19-04.46.42:716][286]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.19-04.46.42:718][286]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.19-04.46.42:718][286]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.19-04.46.42:719][286]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.19-04.46.42:721][286]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.19-04.46.42:721][286]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.19-04.46.42:721][286]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.19-04.46.42:723][286]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.19-04.46.42:724][286]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.19-04.46.42:724][286]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.19-04.46.42:725][286]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.19-04.46.42:736][286]LogExit: Exiting.
+[2019.10.19-04.46.42:770][286]Log file closed, 10/19/19 15:46:42
